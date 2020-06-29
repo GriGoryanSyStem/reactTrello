@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/GitHub/.idea/GitHub.iml" filepath="D:/GitHub/.idea/GitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GitHub/ReactTrello/.idea/ReactTrello.iml" filepath="$PROJECT_DIR$/../GitHub/ReactTrello/.idea/ReactTrello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trello-clone-0ff9f02d258b5172dd42d3020971a612a4866393.iml" filepath="$PROJECT_DIR$/.idea/trello-clone-0ff9f02d258b5172dd42d3020971a612a4866393.iml" />
+    </modules>
+  </component>
+</project>
